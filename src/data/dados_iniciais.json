@@ -1,0 +1,244 @@
+{
+  "categorias": [
+    {
+      "titulo": "Psicanálise I",
+     
+      "cor": "#DB202C",
+      "link_extra": {
+        "text": "Introdução a Psicanálise",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=uJcEEdD1g4c"
+        },
+        {
+          "titulo": "Neuroses e Psicoses",
+          "url": "https://www.youtube.com/watch?v=Kb0uY4-A96E"
+        },
+        {
+          "titulo": "Fases Psicosexuais",
+          "url": "https://www.youtube.com/watch?v=uJcEEdD1g4c&list=TLPQMjkwNzIwMjBaeR0oz4ISFA&index=3"
+        },
+        {
+          "titulo": "ANSIEDADE E MECANISMOS DE DEFESA DO EGO",
+          "url": "https://www.youtube.com/watch?v=KtPgztSiiGo"
+        },
+        {
+          "titulo": "ESTRUTURA DA PERSONALIDADE (ID, EGO, SUPEREGO)",
+          "url": "https://www.youtube.com/watch?v=MZxykE_YihI"
+        },
+        {
+          "titulo": "PULSÃO DE VIDA, PULSÃO DE MORTE E INCONSCIENTE",
+          "url": "https://www.youtube.com/watch?v=XxDP90soZJk"
+        },
+        {
+          "titulo": "TRANSFERÊNCIA E EDUCAÇÃO",
+          "url": "https://www.youtube.com/watch?v=iMiizJ1YkQA&list=PLYb8MujOHWhCUwKDcjjeaBxsGXFe--YNK&index=6"
+        },
+        {
+          "titulo": "Biografia - Freud",
+          "url": "https://www.youtube.com/watch?v=XcoUuBI64J8"
+        }        
+      ]
+    },
+    {
+      "titulo": "Análise do Comportamento",
+      "cor": "#DB202C",
+      "link_extra": {
+        "text": "Introdução a Análise do Comportamento",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "BEHAVIORISMO (1): METODOLÓGICO E RADICAL",
+          "url": "hhttps://www.youtube.com/watch?v=ipHFpXAgjiA"
+        },
+        {
+          "titulo": "BEHAVIORISMO (2): COMPORTAMENTO OPERANTE",
+          "url": "https://www.youtube.com/watch?v=s4NM1kK5zUc"
+        },
+        {
+          "titulo": "BEHAVIORISMO (3): IMPLICAÇÕES PEDAGÓGICAS",
+          "url": "https://www.youtube.com/watch?v=UkrlNh90BFg"
+        },
+        {
+          "titulo": "BEHAVIORISMO (4): COMPARADO AO COGNITIVISMO",
+          "url": "https://www.youtube.com/watch?v=dKXD1Rs-xnI"
+        }, 
+        {
+          "titulo": "JOHN WATSON - CONDICIONAMENTO CLÁSSICO (REFLEXO) - BEHAVIORISMO METODOLÓGICO",
+          "url": "https://www.youtube.com/watch?v=VVqEwuM4AsA"
+        }, 
+        {
+          "titulo": "JOHN WATSON - CONDICIONAMENTO CLÁSSICO (REFLEXO) - BEHAVIORISMO METODOLÓGICO",
+          "url": "https://www.youtube.com/watch?v=VVqEwuM4AsA"
+        }, 
+        {
+          "titulo": "JOHN WATSON - CONDICIONAMENTO CLÁSSICO (REFLEXO) - BEHAVIORISMO METODOLÓGICO",
+          "url": "https://www.youtube.com/watch?v=VVqEwuM4AsA"
+        }, 
+        {
+          "titulo": "JOHN WATSON - CONDICIONAMENTO CLÁSSICO (REFLEXO) - BEHAVIORISMO METODOLÓGICO",
+          "url": "https://www.youtube.com/watch?v=VVqEwuM4AsA"
+        }
+      ]
+    },
+    {
+      "titulo": "Psicanálise II",
+      "cor": "#DB202C",
+      "link_extra": {
+        "text": "Segunda Temporada da Série de Psicanálise ",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "Biografia 01",
+          "url": "https://www.youtube.com/watch?v=_XTPoSLFF0o&list=PLYb8MujOHWhAFRgJZvpsKExlgonlY3NTo"
+        },
+        {
+          "titulo": "Biografia 02",
+          "url": "https://www.youtube.com/watch?v=37Ufqf3DEQo&list=PLYb8MujOHWhAFRgJZvpsKExlgonlY3NTo&index=2"
+        },
+        {
+          "titulo": "Parte 3",
+          "url": "https://www.youtube.com/watch?v=37Ufqf3DEQo&list=PLYb8MujOHWhAFRgJZvpsKExlgonlY3NTo&index=2"
+        },
+        {
+          "titulo": "Parte IV",
+          "url": "https://www.youtube.com/watch?v=kSRDX2c56VY&list=PLYb8MujOHWhAFRgJZvpsKExlgonlY3NTo&index=4"
+        
+        },
+        {
+          "titulo": "Parte V",
+          "url": "https://www.youtube.com/watch?v=Jf7gnnfmtiI&list=PLYb8MujOHWhAFRgJZvpsKExlgonlY3NTo&index=5"
+        
+        },
+        {
+          "titulo": "Parte VI",
+          "url": "https://www.youtube.com/watch?v=Ga31KktdZxo&list=PLYb8MujOHWhAFRgJZvpsKExlgonlY3NTo&index=6"
+        
+        },
+        {
+          "titulo": "Parte IV",
+          "url": "https://www.youtube.com/watch?v=kSRDX2c56VY&list=PLYb8MujOHWhAFRgJZvpsKExlgonlY3NTo&index=4"
+        
+        },
+        {
+          "titulo": "Parte IV",
+          "url": "https://www.youtube.com/watch?v=kSRDX2c56VY&list=PLYb8MujOHWhAFRgJZvpsKExlgonlY3NTo&index=4"
+        }
+      ]
+    },
+    {
+      "titulo": "Biografias",
+      "cor": "#DB202C",
+      "videos": [
+        {
+          "titulo": "I",
+          "url": "https://www.youtube.com/watch?v=p3813O7bhzA&list=PLiLV6DdtiW-2N8kv64JdCHgVwDsJG-5i-"
+        },
+        {
+          "titulo": "II",
+          "url": "https://www.youtube.com/watch?v=LqB5rgqYqzo&list=PLiLV6DdtiW-2N8kv64JdCHgVwDsJG-5i-&index=3"
+        },
+        {
+          "titulo": "III",
+          "url": "https://www.youtube.com/watch?v=kZIrzC9u4lY&list=PLiLV6DdtiW-2N8kv64JdCHgVwDsJG-5i-&index=4"
+        },
+        {
+          "titulo": "IV",
+          "url": "https://www.youtube.com/watch?v=O_AVFOu41Dw&list=PLiLV6DdtiW-2N8kv64JdCHgVwDsJG-5i-&index=7"
+        
+        },
+        {
+          "titulo": "IV",
+          "url": "https://www.youtube.com/watch?v=rwDbsXJTnq4&list=PLiLV6DdtiW-2N8kv64JdCHgVwDsJG-5i-&index=8"
+        
+        },
+        {
+          "titulo": "IV",
+          "url": "https://www.youtube.com/watch?v=O_AVFOu41Dw&list=PLiLV6DdtiW-2N8kv64JdCHgVwDsJG-5i-&index=7"
+        
+        },
+        {
+          "titulo": "IV",
+          "url": "https://www.youtube.com/watch?v=O_AVFOu41Dw&list=PLiLV6DdtiW-2N8kv64JdCHgVwDsJG-5i-&index=7"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#DB202C",
+      "link_extra": {
+        "text": "Sessão de Filmes",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "O manipulador de cérebros",
+          "url": "https://www.youtube.com/watch?v=g-UCAhXwqD8&list=PLUjHR0tAA6WdxWQuJL-qoMuLt6V-bZ3MK&index=4"
+        },
+        {
+          "titulo": "O DUPLO",
+          "url": "https://www.youtube.com/watch?v=1RYxJf-RJKo&list=PLUjHR0tAA6WdxWQuJL-qoMuLt6V-bZ3MK&index=7"
+        },
+        {
+          "titulo": "O perigo Mora ao Lado",
+          "url": "https://www.youtube.com/watch?v=wGPr67F9D50&list=PLUjHR0tAA6WdxWQuJL-qoMuLt6V-bZ3MK&index=6"
+        },
+        {
+          "titulo": "Lolita",
+          "url": "https://www.youtube.com/watch?v=orLXHfJGvZ8&list=PLUjHR0tAA6WdxWQuJL-qoMuLt6V-bZ3MK&index=10"
+        },
+        {
+          "titulo": "Identidade Paranormal",
+          "url": "https://www.youtube.com/watch?v=vctwM6QNBSg&list=PLUjHR0tAA6WdxWQuJL-qoMuLt6V-bZ3MK&index=15"
+        
+        },
+        {
+          "titulo": "Autismo",
+          "url": "https://www.youtube.com/watch?v=PKhS4WlG234&list=PLUjHR0tAA6WdxWQuJL-qoMuLt6V-bZ3MK&index=24"
+        }
+       
+      ]
+    },
+   {
+      "titulo": "Outros Vídeos",
+      "cor": "#DB202C",
+      "link_extra": {
+        "text": "",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=aQFj9ZhlIME"
+        },
+        {
+          "titulo": "2",
+          "url": "https://www.youtube.com/watch?v=W7YMt5ZhBU8&list=RDCMUCFiEI1kDHlO9UQtxx0wj-XA&index=3"
+        },
+        {
+          "titulo": "3",
+          "url": "https://www.youtube.com/watch?v=wwz1SXJ3UAg&list=RDCMUCFiEI1kDHlO9UQtxx0wj-XA&index=4"
+        },
+        {
+          "titulo": "4",
+          "url": "https://www.youtube.com/watch?v=XsJTCKzL-Gg&list=RDCMUCFiEI1kDHlO9UQtxx0wj-XA&index=8"
+        },
+        {
+          "titulo": "5",
+          "url": "https://www.youtube.com/watch?v=Cfu-Q-8A9zo&list=RDCMUCFiEI1kDHlO9UQtxx0wj-XA&index=14"
+        }
+      
+      ,
+        {
+          "titulo": "5",
+          "url": "https://www.youtube.com/watch?v=ZVSTxSnKUzU&list=RDCMUCFiEI1kDHlO9UQtxx0wj-XA&index=16"
+        }
+      ]
+    }
+  ]
+}
